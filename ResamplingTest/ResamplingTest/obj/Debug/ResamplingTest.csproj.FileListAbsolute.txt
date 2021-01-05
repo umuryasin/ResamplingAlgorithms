@@ -1,0 +1,7 @@
+C:\Users\aslan\source\repos\ResamplingTest\ResamplingTest\bin\Debug\ResamplingTest.exe.config
+C:\Users\aslan\source\repos\ResamplingTest\ResamplingTest\bin\Debug\ResamplingTest.exe
+C:\Users\aslan\source\repos\ResamplingTest\ResamplingTest\bin\Debug\ResamplingTest.pdb
+C:\Users\aslan\source\repos\ResamplingTest\ResamplingTest\obj\Debug\ResamplingTest.csprojAssemblyReference.cache
+C:\Users\aslan\source\repos\ResamplingTest\ResamplingTest\obj\Debug\ResamplingTest.csproj.CoreCompileInputs.cache
+C:\Users\aslan\source\repos\ResamplingTest\ResamplingTest\obj\Debug\ResamplingTest.exe
+C:\Users\aslan\source\repos\ResamplingTest\ResamplingTest\obj\Debug\ResamplingTest.pdb
